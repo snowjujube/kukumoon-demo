@@ -1,0 +1,17 @@
+2020-07-07 19:18:48 INFO kukumoon服务即将启动
+2020-07-07 19:18:48 INFO [core] logger loaded
+2020-07-07 19:18:48 INFO [core] sequelize loaded
+2020-07-07 19:18:48 INFO [core] apollo-server loaded
+2020-07-07 19:18:48 INFO 服务地址：http://localhost:5555
+2020-07-07 19:18:48 INFO graphiql IDE地址：http://localhost:5555/configuration-studio-management/api/graphql
+2020-07-07 19:18:48 INFO [core] kukumoon-demo loaded
+2020-07-07 19:18:48 INFO [core] server started on port 5555
+2020-07-07 19:19:29 INFO kukumoon服务即将启动
+2020-07-07 19:19:29 INFO [core] logger loaded
+2020-07-07 19:19:29 INFO [core] sequelize loaded
+2020-07-07 19:19:29 INFO [core] apollo-server loaded
+2020-07-07 19:19:29 INFO 服务地址：http://localhost:5555
+2020-07-07 19:19:29 INFO graphiql IDE地址：http://localhost:5555/configuration-studio-management/api/graphql
+2020-07-07 19:19:29 INFO [core] kukumoon-demo loaded
+2020-07-07 19:19:29 INFO [core] server started on port 5555
+2020-07-07 19:19:30 ERROR Receive signal SIGINT
