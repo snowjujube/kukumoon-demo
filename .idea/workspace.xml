@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82dca01c-ceb1-46b8-9ab0-b3ace63a65ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eM9yU5b7Jmk8pbkl8ij959ssQz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82dca01c-ceb1-46b8-9ab0-b3ace63a65ea" name="Default Changelist" comment="" />
+      <created>1594120848723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594120848723</updated>
+      <workItem from="1594120850067" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/mergeTypeDef.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/mergeTypeDef.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/readGraphQLFile.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/mergeTypeDef.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/readGraphQLFile.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/readGraphQLFile.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/kukumoonApolloServer.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/kukumoonApolloServer.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/util/kukumoonApolloServer.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/extension/context.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/extension/context.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/extension/context.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/middleware/graphql.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/middleware/graphql.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/middleware/graphql-pre.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/middleware/graphql.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/middleware/graphql-pre.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app/middleware/graphql-pre.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/config/config.default.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/config/config.default.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/config/config.default.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/app.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/@kukumoon/apollo-server/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/apollo-env/src/fetch/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/apollo-server-env/src/index.d.ts" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+{
+  "name": "kukumoon-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "PORT=5555 NODE_ENV=dev nodemon -i 'typings/auto-generated/*' -e js index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kukumoon/apollo-server": "0.0.11",
+    "@kukumoon/kukumoon-core": "0.0.1",
+    "@kukumoon/logger": "0.0.11",
+    "@kukumoon/sequelize": "0.0.1",
+    "koa-body": "^4.2.0",
+    "koa-json": "^2.0.2",
+    "sequelize-auto": "^0.4.29"
+  }
+}
